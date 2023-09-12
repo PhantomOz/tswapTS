@@ -58,3 +58,6 @@ TokenSwap is licensed under the MIT License. See [LICENSE](LICENSE) for more det
 
 ## Details
 You can view the following addresses on Ether Scan
+tSwap Address: 0x01f148639cc1A66194dEa030A9EA17fF09D7b05A
+Token A address: 0x35B01C567eb4C65330761c70be07D917b366197b
+Token B address: 0xC7F3889c22D99D9257E2e9C7E9aD084Ae493C066
